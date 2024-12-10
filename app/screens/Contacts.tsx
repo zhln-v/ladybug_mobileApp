@@ -33,7 +33,7 @@ const Contacts = () => {
                 </View>
                 
                 <Text style={[styles.mainText, {marginTop: 20,fontSize: 20}]}>Расположение</Text>
-                <Image style={styles.map} source={require('../../assets/images/3D-map.png')} />
+                <Image style={styles.map} source={require('../../assets/images/3D-map.png')} /> 
             </View>
             
     </LinearGradient>
